@@ -20,5 +20,3 @@ python -m simulador_vida_util_circuito
 ```bash
 python -m simulador_vida_util_circuito --cli --components capacitor resistor --export-csv out.csv
 ```
-## Licença
-Coloque a licença que desejar (ex.: MIT). Você disse que não quer patentear — ótimo para open-source!
